@@ -24,24 +24,24 @@ que realizaron grandes avances:
 ### Referencias: 
 
 - **Hedy Lamarr:**
-     - https://es.wikipedia.org/
-     - https://mujeresconciencia.com/
-     - https://historia.nationalgeographic.com.es/
+     - https://es.wikipedia.org
+     - https://mujeresconciencia.com
+     - https://historia.nationalgeographic.com.es
        
 - **Raida Joy Perlman:**
-     - https://es.wikipedia.org/
-     - https://forohistorico.coit.es/
-     - https://www.gradiant.org/
+     - https://es.wikipedia.org
+     - https://forohistorico.coit.es
+     - https://www.gradiant.org
      
 - **Joan Clarke:** 
-     - https://mujeresconciencia.com/
-     - https://www.infobae.com/
-     - https://e2s.cat/
+     - https://mujeresconciencia.com
+     - https://www.infobae.com
+     - https://e2s.cat
      
  - **Grace Murray:**
-     - https://es.wikipedia.org/
-     - https://www.ugr.es/
-     - https://mujeresconciencia.com/
+     - https://es.wikipedia.org
+     - https://www.ugr.es
+     - https://mujeresconciencia.com
   
   
 ## Licencia:
