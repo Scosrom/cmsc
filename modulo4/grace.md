@@ -6,3 +6,5 @@ Acuñó el término "bug" (chinche, bicho) para referirse a un error de programa
 
 Hopper pronto aprendió a programar esa máquina, escribiendo un manual de 500 páginas en el cual estableció los principios fundamentales de la programación de ordenadores. Al final de la segunda guerra mundial, en 1945, Hopper estaba trabajando en la Mark II.
 
+Al final de su vida estaba orgullosa del servicio prestado a su país. Por ello, fue enterrada con honores en el cementerio nacional militar de Arlington el 7 de enero de 1992
+
