@@ -11,9 +11,10 @@ que realizaron grandes avances:
 - [Raida Joy Perlman](modulo2/raida.md)
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
-  
-  |Nombre| |Aportación|
-  |---||---|
+    
+  | Nombre | | Aportación |
+  | ------ | | ---------- |
+  | Hedy   | | invento    |
   
 ## Referencias: 
   
