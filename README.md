@@ -21,7 +21,7 @@ que realizaron grandes avances:
   | Joan Clarke  |Descifrar Enigma |
   | Grace Murray |Compilador, COBOL|
   
-### Referencias: 
+## Referencias: 
 
 - **Hedy Lamarr:**
      - https://es.wikipedia.org
