@@ -14,12 +14,12 @@ que realizaron grandes avances:
 
 ## Principales Inventos
     
-  | Nombre       | Aportación |
-  | ------------ | ---------- |
-  | Hedy Lamarr  | WIFI       |
-  | Raida Joy    | STP        |
-  | Joan Clarke  |            |
-  | Grace Murray |            |
+  | Nombre       | Aportación      |
+  | ------------ | --------------- |
+  | Hedy Lamarr  | WIFI            |
+  | Raida Joy    | STP             |
+  | Joan Clarke  |Descifrar Enigma |
+  | Grace Murray |Compilador, COBOL|
   
 ## Referencias: 
   
