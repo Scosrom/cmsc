@@ -7,7 +7,7 @@
      
       
        
--   *Hedy Lamarr* era una actriz Austriaca, pero con el estallido de la Segunda guerra mundial,   
+   *Hedy Lamarr* era una actriz Austriaca, pero con el estallido de la Segunda guerra mundial,   
 Hedy decidió prestar sus servicios al Gobiernos de los Estados Unidos ya que disponía de información sobre el armamento del ejército alemán.
 Ella se dió cuenta de que las señales de radio que guiaban a los torpedos de la armanda norteamericana eran muy fáciles de interceptar. 
 Fue entonces cuando elaboró junto a George Antheil un sistema de detención de torpedos teledirigidos. Inspirando en un principio musical,
