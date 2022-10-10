@@ -1,5 +1,8 @@
 # Grace Murray
 
+![grace_murray_hopper_pag_37702_1_280](https://user-images.githubusercontent.com/114906778/194850103-1a2e410f-206b-4baa-9a1e-165b654414e0.jpg)
+
+
 Grace Murray Hopper nació el 9 de diciembre de 1906, en Nueva York, y murió en Arlington, Virginia (USA) el 1 de enero de 1992. Grace Hopper fue un distinguido oficial de la marina estadounidense y una destacada científica computacional. Hopper fue uno de los programadores del primer gran ordenador, el Mark I. Su trabajo dió lugar al primer lenguaje compilador para ordenadores. También trabajó en el desarrolo del COBOL, uno de los primeros lenguajes de programación.
 
 Acuñó el término "bug" (chinche, bicho) para referirse a un error de programación, cuando descubrió una pequeña mariposa dentro de los circuitos que hacía cometer errores de ejecución. En 1973, aunque en la reserva, fue la primera mujer en llegar a capitán de navío de la marina estadounidense.
