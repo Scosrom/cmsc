@@ -1,7 +1,7 @@
 # Radia Joy Perlman
 
 Radia Joy Perlman nació el 18 de Diciembre de 1951 en Portsmouth, Virginia, Estados Unidos. 
-Es conocida principalmente por haber creado el **protocolo Spanning Tree (STP) o Árbol de Expansión**, 
+Es conocida principalmente por haber creado el ***protocolo Spanning Tree (STP) o Árbol de Expansión***, 
 uno de los elementos necesarios para el funcionamiento de Internet.
 
 
