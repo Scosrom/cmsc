@@ -16,3 +16,5 @@ Los militares no supieron apreciar la utilidad del invento hasta que varios año
 Entonces esta tecnología se utilizó para interceptar estos misiles. 
 
 A dia de hoy, este método se emplea para los sistemas de posicionamiento por satélite, como GPS, y fue el percursor del WIfi
+
+<Las películas tienen un cierto lugar en un cierto período de tiempo. La tecnología es para siempre.>
