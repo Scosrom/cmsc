@@ -12,7 +12,8 @@ que realizaron grandes avances:
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
   
-  |--||--|
+  |Nombre| |Aportación|
+  |---||---|
   
 ## Referencias: 
   
