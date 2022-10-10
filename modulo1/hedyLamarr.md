@@ -2,7 +2,8 @@
 
 # Hedy Lamarr
 
-![Foto 1](https://user-images.githubusercontent.com/114906778/194814835-fcb8964a-c8db-4070-9d8c-5277173100be.png)
+![lamar1](https://user-images.githubusercontent.com/114906778/194814913-eb10a5fe-afa6-43be-a437-16cdac17da65.png)
+
 
 
 *Hedy Lamarr* era una actriz Austriaca, pero con el estallido de la Segunda guerra mundial, 
