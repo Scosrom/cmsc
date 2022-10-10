@@ -14,9 +14,9 @@ que realizaron grandes avances:
 
 ## Principales Inventos
     
-  | Nombre | Aportación |
-  | ------ | ---------- |
-  | Hedy   | invento    |
+  | Nombre       | Aportación |
+  | ------------ | ---------- |
+  | Hedy Lamarr  | WIFI       |
   
 ## Referencias: 
   
