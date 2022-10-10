@@ -11,6 +11,8 @@ que realizaron grandes avances:
 - [Raida Joy Perlman](modulo2/raida.md)
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
+
+## Principales Inventos
     
   | Nombre | Aportación |
   | ------ | ---------- |
