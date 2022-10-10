@@ -12,9 +12,9 @@ que realizaron grandes avances:
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
     
-  | Nombre | | Aportación |
-  | ------ | | ---------- |
-  | Hedy   | | invento    |
+  | Nombre | Aportación |
+  | ------ | ---------- |
+  | Hedy   | invento    |
   
 ## Referencias: 
   
