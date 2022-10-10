@@ -21,7 +21,27 @@ que realizaron grandes avances:
   | Joan Clarke  |Descifrar Enigma |
   | Grace Murray |Compilador, COBOL|
   
-## Referencias: 
+### Referencias: 
+
+- **Hedy Lamarr:**
+     - https://es.wikipedia.org/
+     - https://mujeresconciencia.com/
+     - https://historia.nationalgeographic.com.es/
+       
+- **Raida Joy Perlman:**
+     - https://es.wikipedia.org/
+     - https://forohistorico.coit.es/
+     - https://www.gradiant.org/
+     
+- **Joan Clarke:** 
+     - https://mujeresconciencia.com/
+     - https://www.infobae.com/
+     - https://e2s.cat/
+     
+ - **
+     - https://es.wikipedia.org/
+     - https://www.ugr.es/
+     - https://mujeresconciencia.com/
   
   
 ## Licencia:
