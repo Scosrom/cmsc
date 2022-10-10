@@ -17,6 +17,9 @@ que realizaron grandes avances:
   | Nombre       | Aportación |
   | ------------ | ---------- |
   | Hedy Lamarr  | WIFI       |
+  | Raida Joy    | STP        |
+  | Joan Clarke  |            |
+  | Grace Murray |            |
   
 ## Referencias: 
   
