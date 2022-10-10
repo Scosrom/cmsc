@@ -2,7 +2,7 @@
 
 # Hedy Lamarr
 
-[lamar1.md](modulo1/lamar1.md)
+lamar1.md/modulo1/lamar1.md
 
 *Hedy Lamarr* era una actriz Austriaca, pero con el estallido de la Segunda guerra mundial, 
 Hedy decidió prestar sus servicios al Gobiernos de los Estados Unidos ya que disponía de información sobre el armamento del ejército alemán.
