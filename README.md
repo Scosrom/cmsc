@@ -3,7 +3,7 @@
 Las mujeres que se han dedicado a tareas relacionadas con ***computación y digitalización*** han tenido que hacer frente a multitud de problemas que no afectaban a los varones. Es el caso de la **brecha salarial**, **las actitudes machistas** o **los estereotipos de género**, entre otros.
 Aún así muchas de ellas siguieron luchando y triunfaron en este ambito, tanto que terminaron ***dejando su huella***.
   
-Es por ello que en este trabajo vamos a hablar de ***la aportación de la mujer a la computación***, señalando principalmente a cuatro mujeres 
+Es por ello que en este trabajo vamos a hablar de ***la aportación de la mujer a la computación***, señalando principalmente a cinco mujeres 
 que realizaron grandes avances: 
   
   
@@ -11,6 +11,7 @@ que realizaron grandes avances:
 - [Raida Joy Perlman](modulo2/raida.md)
 - [Joan Clarke](modulo3/joan.md)
 - [Grace Murray](modulo4/grace.md)
+- [Nuria Oliver Ramírez](modulo5/nuria.md)
 
 ## Principales Inventos
     
