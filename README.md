@@ -4,7 +4,9 @@ Las mujeres que se han dedicado a tareas relacionadas con ***computación y digi
 Aún así muchas de ellas siguieron luchando y triunfaron en este ambito, tanto que terminaron ***dejando su huella***.
   
 Es por ello que en este trabajo vamos a hablar de ***la aportación de la mujer a la computación***, señalando principalmente a cinco mujeres 
-que realizaron grandes avances: 
+que realizaron grandes avances.
+
+## Contenido
   
   
 - [Hedy Lamarr](modulo1/hedyLamarr.md)
