@@ -21,6 +21,7 @@ que realizaron grandes avances:
   | Raida Joy    | STP             |
   | Joan Clarke  |Descifrar Enigma |
   | Grace Murray |Compilador, COBOL|
+  | Nuria Oliver |Persona-Máquina  |
   
 ## Referencias: 
 
@@ -43,6 +44,11 @@ que realizaron grandes avances:
      - https://es.wikipedia.org
      - https://www.ugr.es
      - https://mujeresconciencia.com
+     
+ - **Nuria Oliver Ramírez:**
+     - https://es.wikipedia.org/
+     - https://cientificasinnovadoras.fecyt.es/
+     
   
   
 ## Licencia:
