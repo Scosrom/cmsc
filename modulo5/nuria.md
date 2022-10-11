@@ -1,4 +1,5 @@
 
+
 #Nuria Oliver Ramírez
 
 
@@ -8,11 +9,11 @@ Alicante, 1970
 
 Ingeniera de comunicaciones por la Universidad Politécnica de Madrid, Doctora en Inteligencia Artificial por el Instituto Tecnológico de Massachusetts y doctorado Honoris Causa por la Universidad Miguel Hernández.
 
-En 2000 entró en el equipo de investigación del Microsoft Research en Redmond, EE. UU.
+En 2000 entró en el equipo de investigación del *Microsoft Research en Redmond*, EE. UU.
 
-Fue Directora Científica de Telefónica I+D y en 2017 fue nombrada Directora de Investigación en Ciencias de Datos de Vodafone a nivel mundial.
+Fue **Directora Científica de Telefónica I+D** y en 2017 fue nombrada **Directora de Investigación en Ciencias de Datos de Vodafone a nivel mundial.**
 
-Desde 2015 colabora con DataPop Alliance, organización dedicada a aprovechar Big Data para mejorar el mundo. Ha sido consejera independiente de Bankia. Es Vicepresidenta y Cofundadora de ELLIS y cofundadora y Directora de la Fundación Unidad ELLIS Alicante.
+Desde 2015 *colabora con DataPop Alliance*, organización dedicada a aprovechar Big Data para mejorar el mundo. Ha sido consejera independiente de Bankia. Es Vicepresidenta y Cofundadora de ELLIS y cofundadora y Directora de la Fundación Unidad ELLIS Alicante.
 
 Destaca por su trabajo en modelos computacionales de comportamiento humano, interacción persona-máquina, informática móvil e IA para el bien social.
 
