@@ -6,7 +6,8 @@
    
      
       
-       
+Hedwig Eva Maria Kiesler (Viena, 9 de noviembre de 1914 Casselberry, Florida - 19 de enero de 2000) 
+
    ***Hedy Lamarr*** era una actriz Austriaca, pero con el estallido de la Segunda guerra mundial,   
 Hedy decidió prestar sus servicios al Gobiernos de los Estados Unidos ya que disponía de información sobre el armamento del ejército alemán.
 Ella se dió cuenta de que las señales de radio que guiaban a los torpedos de la armanda norteamericana eran muy fáciles de interceptar. 
