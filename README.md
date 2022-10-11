@@ -1,5 +1,8 @@
 # La Contribución de la mujer a la computación.
 
+![Foto 1](https://user-images.githubusercontent.com/114906778/195024161-25a1fc79-a25f-4bd5-a777-884de847afac.png)
+
+
 Las mujeres que se han dedicado a tareas relacionadas con ***computación y digitalización*** han tenido que hacer frente a multitud de problemas que no afectaban a los varones. Es el caso de la **brecha salarial**, **las actitudes machistas** o **los estereotipos de género**, entre otros.
 Aún así muchas de ellas siguieron luchando y triunfaron en este ambito, tanto que terminaron ***dejando su huella***.
   
